@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="1280" alt="YomiPlush: a blue dragon humanoid plush with teal yarn hair, black horns and a snowflake scarf beside a glossy balloon, translucent soap bubbles and cyan wireframe geometry on a dark navy background.">
+  <img src="assets/profile-banner-dragon-v2.png" width="1280" alt="YomiPlush: a blue dragon humanoid plush with teal yarn hair, black horns and a snowflake scarf beside a glossy balloon, translucent soap bubbles and cyan wireframe geometry on a dark navy background.">
 </p>
 
 # YomiPlush — Independent Open-Source Developer
