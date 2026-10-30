@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="1280" alt="YomiPlush: a soft plush fox beside a glossy balloon, translucent soap bubbles and cyan wireframe geometry on a dark navy background.">
+  <img src="assets/profile-banner.png" width="1280" alt="YomiPlush: a blue dragon humanoid plush with teal yarn hair, black horns and a snowflake scarf beside a glossy balloon, translucent soap bubbles and cyan wireframe geometry on a dark navy background.">
 </p>
 
 # YomiPlush — Independent Open-Source Developer
 
-*Building practical software with curiosity, creativity, and a little fox magic.*
+*Building practical software with curiosity, creativity, and a little plushie magic.*
 
 [Portfolio](https://yomiplush.dev/) · [Sponsor my work](https://github.com/sponsors/yomiplush)
 
@@ -12,7 +12,7 @@
 
 I'm an independent developer based in Japan. I build browser utilities, work with web technologies, and explore Linux and cross-platform development through open source. My independent cybersecurity research focuses on organizing public evidence into useful, clearly sourced technical resources.
 
-A plush fox, a floating balloon, and a few soap bubbles: a little softness alongside careful engineering.
+A blue dragon plush, a floating balloon, and a few soap bubbles: a little softness alongside careful engineering.
 
 ## Featured software
 

@@ -1,5 +1,5 @@
 # Profile artwork
 
-`profile-banner.png` is original AI-generated artwork created for YomiPlush using the built-in OpenAI image generation tool on 2026-10-30. No reference images or third-party mascot assets were supplied. The result was proportionally resized and a softly blended navy background added to 1280 × 360 pixels using Pillow.
+`profile-banner.png` was created for YomiPlush using the built-in OpenAI image generation tool. The mascot was revised on 2026-10-30 using a user-supplied character reference: a blue dragon humanoid plush with teal yarn hair, black horns and a snowflake scarf. The banner also includes original balloon, soap bubble and cyan wireframe imagery.
 
-To the extent YomiPlush holds rights in this asset, it is made available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute reuse to “YomiPlush — AI-generated profile artwork”. This statement does not claim exclusive rights in AI-generated output or trademark permission.
+The final image is prepared at 1280 × 360 pixels. AI generation is disclosed here for transparency. Rights in the supplied character reference remain with their respective holders; no third-party ownership, exclusive rights in AI output, or additional reuse license for this reference-derived banner is claimed.
