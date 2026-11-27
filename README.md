@@ -1,46 +1,36 @@
 <p align="center">
-  <img src="assets/profile-banner-dragon-v2.png" width="1280" alt="YomiPlush: a blue dragon humanoid plush with teal yarn hair, black horns and a snowflake scarf beside a glossy balloon, translucent soap bubbles and cyan wireframe geometry on a dark navy background.">
+  <img src="assets/profile-banner-dragon-v2.png" width="1280" alt="YomiPlush">
 </p>
 
-# YomiPlush — Independent Open-Source Developer
+<p align="center">
+  <a href="https://yomiplush.dev/"><img src="https://img.shields.io/badge/Portfolio-yomiplush.dev-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8" alt="Portfolio"></a>
+  <a href="https://github.com/sponsors/yomiplush"><img src="https://img.shields.io/badge/Sponsor-GitHub-0f172a?style=flat-square&logo=githubsponsors&logoColor=f472b6" alt="Sponsor"></a>
+</p>
 
-*Building practical software with curiosity, creativity, and a little plushie magic.*
+<br>
 
-[Portfolio](https://yomiplush.dev/) · [Sponsor my work](https://github.com/sponsors/yomiplush)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3><a href="https://certified-handmade.com/">Certified Handmade</a></h3>
+      <p><sub>Handmade &amp; Art Provenance</sub></p>
+      <a href="https://certified-handmade.com/"><img src="https://img.shields.io/badge/Web-certified--handmade.com-1e293b?style=for-the-badge&logoColor=white" alt="Certified Handmade"></a>
+    </td>
+    <td align="center" width="33%">
+      <h3><a href="https://www.infosec-briefing.net/">Infosec Briefing</a></h3>
+      <p><sub>Sourced Cybersecurity Briefings</sub></p>
+      <a href="https://www.infosec-briefing.net/"><img src="https://img.shields.io/badge/Web-infosec--briefing.net-1e293b?style=for-the-badge&logoColor=white" alt="Infosec Briefing"></a>
+    </td>
+    <td align="center" width="33%">
+      <h3><a href="https://github.com/yomiplush/neo-cassette-tape-player">Neo Cassette Tape Player</a></h3>
+      <p><sub>Retro Cassette Audio Player</sub></p>
+      <a href="https://github.com/yomiplush/neo-cassette-tape-player"><img src="https://img.shields.io/badge/GitHub-Repository-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Neo Cassette Tape Player"></a>
+    </td>
+  </tr>
+</table>
 
-## About
-
-I'm an independent developer based in Japan. I build browser utilities, work with web technologies, and explore Linux and cross-platform development through open source. My independent cybersecurity research focuses on organizing public evidence into useful, clearly sourced technical resources.
-
-A blue dragon plush, a floating balloon, and a few soap bubbles: a little softness alongside careful engineering.
-
-## Featured software
-
-- **[PHP Simple Check](https://github.com/yomiplush/php-simple-check)** — A Chromium extension and userscripts for Safari and Firefox for Android that identify observable PHP signals and explain the verdict. A stack fingerprinting utility, with the limits documented in the project.
-- **[Outrage Mute](https://github.com/yomiplush/outrage-mute)** — A browser extension and userscripts that use local dictionaries and heuristics to blur or hide inflammatory posts on X. Configurable filtering, with no external scoring service.
-- **[quake3-quickjoin](https://github.com/yomiplush/quake3-quickjoin)** — Small protocol handlers that connect browser links to Quake III clients. Linux is documented as tested; Windows and macOS scripts still need validation on their respective platforms.
-
-### Platform work & guides
-
-- **[DeckDroid-Quest3](https://github.com/yomiplush/DeckDroid-Quest3)** — My Quest 3-focused fork of DroidDeck, with KGSL compatibility, rendering and suspend-policy changes. Builds on the upstream team's work; device compatibility and hardware validation remain limited.
-- **[Next-Gen Potato Gaming v2](https://github.com/yomiplush/next-gen-potato-gaming-v2)** — A personal CachyOS gaming setup guide covering Proton, drivers and launch options. Documentation rather than a standalone application; results depend on hardware and software versions.
-
-## Independent research
-
-**[Infosec Briefing](https://github.com/yomiplush/2026-world-is-a-fuck-incident)** organizes public cybersecurity information into sourced reports, structured registers and verification tools. Dated findings retain their context, with reported claims, confirmed facts and unknowns kept distinct.
-
-## Technologies
-
-JavaScript · HTML & CSS · Browser extensions & userscripts · Python · Shell scripting · Linux
-
-## Support my open-source work
-
-Sponsorship helps fund maintenance and bug fixes, compatibility improvements, testing, documentation, and continued independent open-source development.
-
-**[Support YomiPlush on GitHub Sponsors](https://github.com/sponsors/yomiplush)**
-
-Small recurring and one-time contributions are welcome. Thank you for helping keep this work public and useful.
-
-## Contact
-
-Visit **[yomiplush.dev](https://yomiplush.dev/)** for my portfolio.
+<p align="center">
+  <a href="https://github.com/yomiplush/DeckDroid-MetaQuest"><img src="https://img.shields.io/badge/DeckDroid_MetaQuest-Quest_3-0f172a?style=flat-square&logo=github&logoColor=white" alt="DeckDroid MetaQuest"></a>
+  <a href="https://github.com/yomiplush/php-simple-check"><img src="https://img.shields.io/badge/php--simple--check-Browser_Ext-0f172a?style=flat-square&logo=github&logoColor=white" alt="php-simple-check"></a>
+  <a href="https://github.com/yomiplush/outrage-mute"><img src="https://img.shields.io/badge/outrage--mute-X_Filter-0f172a?style=flat-square&logo=github&logoColor=white" alt="outrage-mute"></a>
+</p>
